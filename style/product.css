@@ -69,6 +69,7 @@
     letter-spacing: 0.04em;
     color: var(--main-color);
     background-color: transparent;
+    margin: 50px 0px;
 }
 
 .product__button-order{
