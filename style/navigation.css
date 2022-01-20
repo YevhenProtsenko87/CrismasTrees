@@ -47,10 +47,12 @@
     .navigation {
         display: none;
         width: 100%;
+        padding-top: 30px;
     }
 
     .navigation_active {
         display: block;
+       
     }
 
     .navigation__item {
